@@ -11,6 +11,7 @@ now open new terminal and type
 add this - #Repositories : 
 
 deb http://kali.cs.nctu.edu.tw/kali kali-rolling main contrib non-free 
+
 deb-src http://kali.cs.nctu.edu.tw/kali kali-rolling main contrib non-free
 
 now save and exit
